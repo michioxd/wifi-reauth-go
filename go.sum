@@ -1,0 +1,9 @@
+github.com/gonutz/check v1.2.0/go.mod h1:J5ndBcNQd4fv3I+Moevk4PXZoyXRamwwclm6dDgAuyA=
+github.com/gonutz/w32 v1.0.0 h1:3t1z6ZfkFvirjFYBx9pHeHBuKoN/VBVk9yHb/m2Ll/k=
+github.com/gonutz/w32 v1.0.0/go.mod h1:Rc/YP5K9gv0FW4p6X9qL3E7Y56lfMflEol1fLElfMW4=
+github.com/gonutz/w32/v2 v2.2.2 h1:y6Y337TpuCXjYdFTq5p5NmcujEdAQiTB43kisovMk+0=
+github.com/gonutz/w32/v2 v2.2.2/go.mod h1:MgtHx0AScDVNKyB+kjyPder4xIi3XAcHS6LDDU2DmdE=
+github.com/gonutz/wui v2.2.0+incompatible h1:iHQavamxVsn7kw7VaO+ooE7eAnwmDDPbz2Q59WRXrz0=
+github.com/gonutz/wui v2.2.0+incompatible/go.mod h1:cpEPmIh19mpxkcho2qMHLX16gVteB1aee8g11887kyE=
+github.com/gonutz/wui/v2 v2.8.1 h1:F1V+1OC/Ze9bQYY2WTOmgkGdSFN+rQAUs+vW5MzXrXI=
+github.com/gonutz/wui/v2 v2.8.1/go.mod h1:4twV9Ka+OwAr7Fy12YSJuAy5e4u8uTHk4YbxFyguheo=
